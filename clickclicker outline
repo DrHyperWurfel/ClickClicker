@@ -1,0 +1,13 @@
+Project outline 
+
+
+Functions [ver1]:
+1) Start - interface 
+2) Stop  - interface
+3) autoClickerThreadHandler - wait for the clicker to be started then starts Run function 
+4) Run - clicks
+
+Functions[ver2]
+1) HotKey
+2) clickSpeedInput - 
+3) killSwitch
